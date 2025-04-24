@@ -1,5 +1,5 @@
 # 2024W_Doing_Data_Science_group_Project
-As a final project in the Doing Data Science course, we worked with a team on Credit Card Fraud Prediction: https://peter-gy.github.io/static/uni/2024w/dds/analysis.html
+As a final project in the Doing Data Science course, we (Péter Ferenc Gyarmati, Martyna Janina Kopyta, Elizaveta Kotikova) worked with a team on Credit Card Fraud Prediction: https://peter-gy.github.io/static/uni/2024w/dds/analysis.html
 
 ## Project Overview
 
